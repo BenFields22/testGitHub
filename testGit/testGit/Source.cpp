@@ -33,6 +33,11 @@ int main()
 		joe.run();
 
 	}
+
+	cout << "\nAnother figure pops out of the woods" << endl;
+	Enemy jane;
+	jane.attack();
+
 	
 	system("PAUSE");
 
